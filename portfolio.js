@@ -1,7 +1,7 @@
 import emoji from "react-easy-emoji";
 
 export const greetings = {
-    name: "Harihar Bhandari",
+    name: "Suraj Bhandari",
     nickName: "Hari Bhai",
     title: "Hi all, I'm Harihar.",
     subTitle: "You can call me",
