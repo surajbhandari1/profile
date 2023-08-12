@@ -2,9 +2,9 @@ import emoji from "react-easy-emoji";
 
 export const greetings = {
     name: "Suraj Bhandari",
-    nickName: "Hari Bhai",
-    title: "Hi all, I'm Harihar.",
-    subTitle: "You can call me",
+    nickName: "Suri",
+    title: "Namaste !, I'm Suraj.",
+    subTitle: "Glad to see you here !",
     bio: "I am a self-thought full stack web developer.",
     location: "Kathmandu, Nepal",
     profileImage:
